@@ -1,0 +1,12 @@
+transformers
+torch
+accelerate
+gradio
+fitz
+PyMuPDF
+langchain_google_genai
+langchain_pinecone
+pinecone
+langchain_text_splitters
+frontend
+langchain
